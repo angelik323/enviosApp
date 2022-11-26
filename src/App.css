@@ -5,7 +5,19 @@
   text-align: center;
 }
 
-.logo {
+.black {
+  background-color: #0000;
+}
+
+
+.body{
+  background-image: url(""); /* ../src/images/1.jpg */
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+/* .logo {
   height: 6em;
   padding: 1.5em;
   will-change: filter;
@@ -39,3 +51,4 @@
 .read-the-docs {
   color: #888;
 }
+ */
