@@ -1,18 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-<!--     import React from 'react'
+import React from 'react'
 
 export function NavBar() {
   return (
     <>
-         --><nav class="sb-topnav navbar navbar-expand navbar-dark bg-dark">
+        <nav class="sb-topnav navbar navbar-expand navbar-dark bg-dark">
             <a class="navbar-brand ps-3" href="index.html">Proyecto Recogida Paquetes</a>
             <form class="d-none d-md-inline-block form-inline ms-auto me-0 me-md-3 my-2 my-md-0">     
             </form>
@@ -25,9 +16,6 @@ export function NavBar() {
                 </li>
             </ul>
         </nav>
- <!--    </>
+    </>
   )
-} -->
-
-</body>
-</html>
+}

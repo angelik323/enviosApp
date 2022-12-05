@@ -1,4 +1,4 @@
-export default function Login(){
+export default function Login2(){
 
     return (
         <div class="container">
@@ -10,7 +10,7 @@ export default function Login(){
                 <h2 class="fw-bold text-center py-4">Bienvenidos</h2>
                 <from>
                     <div class="mb-4">
-                        <label for="exampleInputEmail1" class="form-label">Ingrese su Corre0</label>
+                        <label for="exampleInputEmail1" class="form-label">Ingrese su Correo</label>
                         <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" />
                         <div id="emailHelp" class="form-text">Nunca compartiremos su correo electrónico con nadie más.</div>
                     </div>

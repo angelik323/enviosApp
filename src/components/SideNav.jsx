@@ -1,13 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-  <!--   import React from 'react'
+
+import React from 'react'
 import {Login} from './Login'
 import {ListadoOrdenes} from './ListadoOrdenes'
 import { Registro } from './Registro';
@@ -19,7 +11,7 @@ export function SideNav() {
     const user = false;
 
   return (
-    <> -->
+    <>
         <NavBar/>
          <div id="layoutSidenav">
             <div id="layoutSidenav_nav">
@@ -58,7 +50,7 @@ export function SideNav() {
             <ActualizacionOrden/>
 
                <br />
-                <<footer class="py-4 bg-light mt-auto">
+                <footer class="py-4 bg-light mt-auto">
                     <div class="container-fluid px-4">
                         <div class="d-flex align-items-center justify-content-between small">
                             <div class="text-muted">Derechos Reservados &copy; Grupo 10 UniNorte</div>
@@ -72,9 +64,7 @@ export function SideNav() {
                 </footer>
             </div>
         </div>
-    <!-- </>
+    </>
   )
-} -->
+}
 
-</body>
-</html>
